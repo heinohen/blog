@@ -1,0 +1,9 @@
+# backups
+*.bak
+
+# venv
+.venv/
+
+# db
+*.sqlite3
+
